@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2D4B7"/>
+      <stop offset="50%" stop-color="#C5A880"/>
+      <stop offset="100%" stop-color="#9E7D47"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="#1A1410" stroke="url(#goldGrad)" stroke-width="2"/>
+  <circle cx="50" cy="50" r="41" fill="none" stroke="#C5A880" stroke-width="0.75" stroke-dasharray="2 3"/>
+  <!-- Elegant Monogram A -->
+  <text x="50" y="62" font-family="'Cinzel', 'Playfair Display', serif" font-size="42" font-weight="500" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="2">A</text>
+  <circle cx="50" cy="22" r="2.5" fill="#C5A880"/>
+</svg>
